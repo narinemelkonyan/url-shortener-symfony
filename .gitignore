@@ -1,0 +1,4 @@
+# docker environment
+/.env
+/src/.env
+.idea/
